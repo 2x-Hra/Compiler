@@ -1,6 +1,7 @@
 # Compiler-Project
 
 ## About
+This project will compile C code , and it's pure `lex` and `bison`.
 
 
 ## installing
