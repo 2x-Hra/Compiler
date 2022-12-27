@@ -21,4 +21,5 @@ This project will compile C code , and it's pure `lex` and `bison`.
     cat input.txt | a.exe
 ```
 OR
-Run the makefile commands
+
+`Run the makefile commands`
