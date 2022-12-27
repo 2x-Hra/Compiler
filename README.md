@@ -20,3 +20,5 @@ This project will compile C code , and it's pure `lex` and `bison`.
     gcc lex.yy.c
     cat input.txt | a.exe
 ```
+OR
+Run the makefile commands
